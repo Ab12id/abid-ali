@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Ab12id/abid-ali.git
+git branch -M main
+git push -u origin main
